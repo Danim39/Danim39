@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ORON<br>🌱 I’m currently learning Django
+🔭 I’m currently working on my website<br>🌱 I’m currently learning Django
 
 
 ## 🌐 Socials:
